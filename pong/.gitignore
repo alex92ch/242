@@ -1,0 +1,8 @@
+# node.js
+node_modules
+
+# Python embedded
+python/
+
+# Work in progress
+project/
